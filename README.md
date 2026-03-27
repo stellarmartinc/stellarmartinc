@@ -54,33 +54,6 @@ Stellarmart is built around three core systems:
 
 ---
 
-## 🏢 Company Structure
-
-Stellarmart operates with a structured team approach:
-
-### 👨‍💻 Founder & CEO
-- Product vision  
-- System architecture  
-- Strategic direction  
-
-### ⚙️ Engineering Team
-- Frontend Engineers  
-- Backend Engineer  
-
-### 🎯 Product & Design
-- Head of Product  
-- Product Designer (UI/UX)  
-
-### 📦 Operations (Scaling Phase)
-- Head of Operations  
-- Vendor Management  
-- Customer Support  
-
-### 📢 Growth & Marketing (Upcoming)
-- Growth Lead  
-- Content & Social Media  
-
----
 
 ## 🧪 Tech Stack
 
